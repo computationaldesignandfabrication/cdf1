@@ -60,6 +60,6 @@ Execute the commands below in Anaconda Prompt:
 
     C:\Users\your_username\workspace
 
-* Secondly, open Github Desktop and clone the [CDF repository](https://github.com/computational_design_and_fabrication/computational_design_and_fabrication) into your ***workspace*** folder.
+* Secondly, open Github Desktop and clone the [CDF repository](https://github.com/computational_design_and_fabrication/computational_design_and_fabrication) into your **workspace** folder.
 
 **Done! Now you can go to VS Code, Rhino, or Grasshopper to run the example files of CDF.**
