@@ -30,12 +30,12 @@ Title | Description | Slides
 
 ## Getting started
 
-Set up your Python environment following these instructions:
-
-### Setting up the Anaconda environment with COMPAS
+### Setting up the Anaconda environment
 
 Execute the commands below in Anaconda Prompt:
 	
+#### Installation
+
     (base) conda config --add channels conda-forge
     (base) conda create -n cdf compas
     (base) conda activate cdf
@@ -43,22 +43,24 @@ Execute the commands below in Anaconda Prompt:
 #### Verify Installation
 
     (cdf) pip show compas
+
 ####
-    Name: compas
-    Version: 2.0.0
+    Name: COMPAS
+    Version: 2.0.2
+    Summary: The COMPAS framework
     ...
 
-#### Install on Rhino
+#### Installation for Rhino
 
     (cdf) python -m compas_rhino.install -v 7.0
 
 
-### Cloning the Course Repository
+### Cloning the CDF Repository
 
 Firstly, create a workspace directory:
 
 C:\Users\your_username\workspace
 
-Then open Github Desktop and clone the [CDF repository](https://github.com/computational_design_and_fabrication/computational_design_and_fabrication) into you workspace folder.
+Secondly, open Github Desktop and clone the [CDF repository](https://github.com/computational_design_and_fabrication/computational_design_and_fabrication) into you workspace folder.
 
 **Now you can go to VS Code, Rhino, or Grasshopper to run the example files.**
