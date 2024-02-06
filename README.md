@@ -15,7 +15,6 @@ Title | Description | Slides
 **Session 3** | Session 3  | Session 3 Slides
 
 
-
 ## Requirements
 
 * Windows 10 Professional
@@ -57,10 +56,10 @@ Execute the commands below in Anaconda Prompt:
 
 ### Cloning the CDF Repository
 
-Firstly, create a workspace directory:
+* Firstly, create a **workspace** directory in your File Explorer:
 
-C:\Users\your_username\workspace
+    C:\Users\your_username\workspace
 
-Secondly, open Github Desktop and clone the [CDF repository](https://github.com/computational_design_and_fabrication/computational_design_and_fabrication) into you workspace folder.
+* Secondly, open Github Desktop and clone the [CDF repository](https://github.com/computational_design_and_fabrication/computational_design_and_fabrication) into your ***workspace*** folder.
 
-**Now you can go to VS Code, Rhino, or Grasshopper to run the example files.**
+**Done! Now you can go to VS Code, Rhino, or Grasshopper to run the example files of CDF.**
