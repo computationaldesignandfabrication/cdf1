@@ -2,7 +2,7 @@
 
 ## Welcome
 
-Welcome to [**Computational Design and Fabrication**](https://computationaldesignandfabrication.github.io/computational_design_and_fabrication/), a platform dedicated to beginner-friendly creative coding tutorials and exercises for computational design and fabrication in architecture.
+Welcome to **Computational Design and Fabrication**, a platform dedicated to beginner-friendly creative coding tutorials and exercises for computational design and fabrication in architecture.
 
 
 ## Session Blocks
