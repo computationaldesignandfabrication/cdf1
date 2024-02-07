@@ -27,6 +27,10 @@ Title | Description | Slides
 
 * [COMPAS](https://compas-dev.github.io/)
 
+* [matplotlib](https://matplotlib.org/)
+* [COMPAS Viewer](https://compas.dev/compas_viewer/latest/index.html)
+
+
 ## Getting started
 
 ### Setting up the Anaconda environment
@@ -49,6 +53,10 @@ Execute the commands below in Anaconda Prompt:
     Summary: The COMPAS framework
     ...
 
+#### Installation of dependencies
+    conda install matplotlib
+    pip install compas_viewer
+    
 #### Installation for Rhino
 
     (cdf) python -m compas_rhino.install -v 7.0
