@@ -13,6 +13,7 @@ fig, ax = plt.subplots()
 # Set axis limits
 ax.set_xlim(-1.5, 1.5)
 ax.set_ylim(-1.5, 1.5)
+ax.set_aspect('equal')
 
 # Draw face outline
 face_outline = plt.Circle((0, 0), 1, color='lightgray', fill=True)
