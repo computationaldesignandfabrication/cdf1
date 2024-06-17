@@ -3,9 +3,10 @@ import matplotlib.pyplot as plt
 import math
 
 
+# create random values for the face features
 features = np.random.randint(100,700, size=10)
 features = [f/1000 for f in features]
-print(features)
+#print(features)
 
 # Create canvas
 fig, ax = plt.subplots()
@@ -16,7 +17,7 @@ ax.set_ylim(-1.5, 1.5)
 ax.set_aspect('equal')
 
 # Draw face outline
-face_outline = plt.Circle((0, 0), 1, color='lightgray', fill=True)
+face_outline = plt.Circle(xy=(0, 0), radius=1, color='lightgray', fill=True)
 ax.add_patch(face_outline)
 
 # Draw eyes
@@ -48,7 +49,7 @@ mouth_height = 0.05
 mouth_angle = 0
 mouth = plt.Rectangle((-mouth_width / 2, -0.55), mouth_width, mouth_height, angle=mouth_angle, color='red', fill=True)
 
-# Add features to the plot
+# Add face items to the plot
 ax.add_patch(eye1)
 ax.add_patch(eye2)
 ax.add_patch(eye1_inside)
