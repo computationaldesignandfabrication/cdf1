@@ -5,14 +5,25 @@
 Welcome to **Computational Design and Fabrication**, a platform dedicated to beginner-friendly creative coding tutorials and exercises for computational design and fabrication in architecture.
 
 
-## Session Blocks
+## Session Blocks 
+## General Computational Geometry
 
-Title | Description | Slides  
------ | ----------- | ------
-**Python Basics** | Quick start on Python | [Python Basics](https://docs.google.com/presentation/d/1VDaIxVtl5dnydUoDbgl7tOkzcTfhUV11hmd7pZFogok/edit?usp=sharing)
-**Session 1** | Session 1  | Session 1 Slides
-**Session 2** | Session 2  | Session 3 Slides
-**Session 3** | Session 3  | Session 3 Slides
+Title | Description | Slides | Session material | Assignment 
+----- | ----------- | ------ | ---------------- | ----------
+**01 Python Basics** | Quick start on Python | [Python Basics](https://docs.google.com/presentation/d/1fIpX7-DEaRLJhKe3QST4xTEx9U57yM9mbpVtvykUyD8/edit?usp=sharing) | https://github.com/robotic-fabrication-in-arch-classroom/session-01 | https://github.com/robotic-fabrication-in-arch-classroom/assignment-01
+**02 Basic Geometry** | 2D and 3D primitive geometry  | [Geometry](https://docs.google.com/presentation/d/16DmLj11qJGcRS9t2plSShqpEKF18fyEFxWbCWRyrwEE/edit?usp=sharing) | https://github.com/robotic-fabrication-in-arch-classroom/session-02 | https://github.com/robotic-fabrication-in-arch-classroom/assignment-02
+**03 Geometric Representations** | Mesh and Graph data structures and processing  | [Data Structures](https://docs.google.com/presentation/d/1lRxruAAzjBgQr4ochBbuwnfC7lbJ6FwgH7dUbuNIuC0/edit?usp=sharing) | https://github.com/robotic-fabrication-in-arch-classroom/session-04 | https://github.com/robotic-fabrication-in-arch-classroom/assignment-03
+**04 Geometry Processing** | Transformation and morphing of mesh and graph geometries  | [Frames and Transformations](https://docs.google.com/presentation/d/1kMZ3cG7GBg3h3EDVvI_GPqTRwIeRn_IKUbUgkiBQ6sg/edit?usp=sharing) | https://github.com/robotic-fabrication-in-arch-classroom/session-03 | https://github.com/robotic-fabrication-in-arch-classroom/assignment-04
+
+## Session Blocks 
+## Associated With the Design Tool
+
+Title | Description | Slides | Session material | Assignment 
+----- | ----------- | ------ | ---------------- | ----------
+**05 Surface Form Finding** | Geometric form finding for compression-only structures | [Form Finding](LINK) | https://github.com/robotic-fabrication-in-arch-classroom/session-05
+**06 Volume Form Finding** | Geometric form finding for compression-only structures | [Form Finding](LINK) | https://github.com/robotic-fabrication-in-arch-classroom/session-05
+**07 Shape Segmentation** | Segmentation and connection detailing | [Form Finding](LINK) | https://github.com/robotic-fabrication-in-arch-classroom/session-05
+**08 Slicing and Print Path Generation** | Slicing and Print Path generation | [Slicing and Print Path Generation](LINK) | https://github.com/robotic-fabrication-in-arch-classroom/session-06
 
 
 ## Requirements
