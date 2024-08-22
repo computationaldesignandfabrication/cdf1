@@ -10,10 +10,10 @@ Welcome to **Computational Design and Fabrication**, a platform dedicated to beg
 
 Title | Description | Slides | Session material | Assignment 
 ----- | ----------- | ------ | ---------------- | ----------
-**01 Python Basics** | Quick start on Python | [Python Basics](https://docs.google.com/presentation/d/1fIpX7-DEaRLJhKe3QST4xTEx9U57yM9mbpVtvykUyD8/edit?usp=sharing) | https://github.com/robotic-fabrication-in-arch-classroom/session-01 | https://github.com/robotic-fabrication-in-arch-classroom/assignment-01
-**02 Basic Geometry** | 2D and 3D primitive geometry  | [Geometry](https://docs.google.com/presentation/d/16DmLj11qJGcRS9t2plSShqpEKF18fyEFxWbCWRyrwEE/edit?usp=sharing) | https://github.com/robotic-fabrication-in-arch-classroom/session-02 | https://github.com/robotic-fabrication-in-arch-classroom/assignment-02
-**03 Geometric Representations** | Mesh and Graph data structures and processing  | [Data Structures](https://docs.google.com/presentation/d/1lRxruAAzjBgQr4ochBbuwnfC7lbJ6FwgH7dUbuNIuC0/edit?usp=sharing) | https://github.com/robotic-fabrication-in-arch-classroom/session-04 | https://github.com/robotic-fabrication-in-arch-classroom/assignment-03
-**04 Geometry Processing** | Transformation and morphing of mesh and graph geometries  | [Frames and Transformations](https://docs.google.com/presentation/d/1kMZ3cG7GBg3h3EDVvI_GPqTRwIeRn_IKUbUgkiBQ6sg/edit?usp=sharing) | https://github.com/robotic-fabrication-in-arch-classroom/session-03 | https://github.com/robotic-fabrication-in-arch-classroom/assignment-04
+**01 Python Basics** | Quick start on Python | [Python Basics](https://docs.google.com/presentation/d/1itrUdpCxscddm8ilBpDHMNRPB9uUaK41vLhZXXznRcU/edit?usp=sharing) | https://github.com/computationaldesignandfabrication/session-01 | https://github.com/computationaldesignandfabrication/assignment-01
+**02 Basic Geometry** | 2D and 3D primitive geometry  | [Geometry](https://docs.google.com/presentation/d/1t5Old_fkJYUoT19DOXw5mV__aK2kXLFIzcbFNjCk49I/edit?usp=sharing) | https://github.com/computationaldesignandfabrication/session-02 | https://github.com/computationaldesignandfabrication/assignment-02
+**03 Geometric Representations** | Mesh and Graph data structures and processing  | [Data Structures](https://docs.google.com/presentation/d/157haw_1_zLma1QmPeS_Vz5kyLTYuytL1gbhSn71Se1M/edit?usp=sharing) | https://github.com/computationaldesignandfabrication/session-03 | https://github.com/computationaldesignandfabrication/assignment-03
+**04 Geometry Processing** | Transformation and morphing of mesh and graph geometries  | [Frames and Transformations](https://docs.google.com/presentation/d/1W4tloeYK8kEeiodES_N3r30FbRCn7zkjixjjtCY95PE/edit?usp=sharing) | https://github.com/computationaldesignandfabrication/session-04 | https://github.com/computationaldesignandfabrication/assignment-04
 
 ## Session Blocks 
 ## Associated With the Design Tool
