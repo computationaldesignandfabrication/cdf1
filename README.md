@@ -1,4 +1,4 @@
-# Computational Design and Fabrication (CDF)
+# Computational Design and Fabrication 1 (CDF1)
 
 ## Welcome
 
