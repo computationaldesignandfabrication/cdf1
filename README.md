@@ -21,10 +21,10 @@ Title | Description | Slides | Session material | Assignment
 Title | Description | Slides | Session material | Assignment 
 ----- | ----------- | ------ | ---------------- | ----------
 **05 Earth 3D Printing Demo** | Earth 3D Printing Demo | [Earth 3D Printing Demo](LINK) | No assignment
-**06 Surface Form Finding** | Geometric form finding for compression-only structures | [Form Finding](LINK) | https://github.com/robotic-fabrication-in-arch-classroom/session-05
-**07 Volume Form Finding** | Geometric form finding for compression-only structures | [Form Finding](LINK) | https://github.com/robotic-fabrication-in-arch-classroom/session-05
-**08 Shape Segmentation** | Segmentation and connection detailing | [Form Finding](LINK) | https://github.com/robotic-fabrication-in-arch-classroom/session-05
-**09 Slicing and Print Path Generation** | Slicing and Print Path generation | [Slicing and Print Path Generation](LINK) | https://github.com/robotic-fabrication-in-arch-classroom/session-06
+**06 Surface Form Finding** | Geometric form finding for compression-only structures | [Form Finding](LINK) | 
+**07 Volume Form Finding** | Geometric form finding for compression-only structures | [Form Finding](LINK) | 
+**08 Shape Segmentation** | Segmentation and connection detailing | [Form Finding](LINK) | 
+**09 Slicing and Print Path Generation** | Slicing and Print Path generation | [Slicing and Print Path Generation](LINK) | 
 
 
 ## Requirements
